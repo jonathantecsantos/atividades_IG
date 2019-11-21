@@ -19,4 +19,9 @@ https://github.com/jonathantecsantos/atividades_IG/tree/master/Exercicio_04_IG
 Exercício 05 clique aqui:
 https://docs.google.com/document/d/1heRVmJLjipOR_BBhXcdCKMdVFH2mUmcekQQY-1UG3sM/edit?usp=sharing
 
+Exercício 06 (acessibilidade de páginas web):
+https://github.com/jonathantecsantos/site_acessibilidade
+Link vídeo:https://www.youtube.com/watch?v=EAV-2tSiRxA
+
+
 Observação: Para executar os projetos clone todo os arquivos e importe individualmente cada projeto.
