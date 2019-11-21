@@ -2,7 +2,7 @@
 
 Alunos: Jonathan Santos e Abimael de Sousa
 
-Exercício 01 clique aqui:
+<b>Exercício 01 clique aqui:</b>
 https://github.com/jonathantecsantos/atividades_IG/tree/master/Exercicio_01_IG
 
 Exercício 02 clique aqui:
