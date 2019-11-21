@@ -22,6 +22,7 @@ https://docs.google.com/document/d/1heRVmJLjipOR_BBhXcdCKMdVFH2mUmcekQQY-1UG3sM/
 Exercício 06 (acessibilidade de páginas web):
 https://github.com/jonathantecsantos/site_acessibilidade
 Link vídeo:https://www.youtube.com/watch?v=EAV-2tSiRxA
+Neste exercício utilizamos o NVDA como leitor de tela: https://www.nvaccess.org/
 
 
 Observação: Para executar os projetos clone todo os arquivos e importe individualmente cada projeto.
