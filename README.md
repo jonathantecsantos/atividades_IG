@@ -24,6 +24,12 @@ https://github.com/jonathantecsantos/site_acessibilidade
 
 Link vídeo:https://www.youtube.com/watch?v=EAV-2tSiRxA
 
+<b>Exercício 07</b> (navegação de página governamental):
+Página:http://trabalho.gov.br/
+Vídeo: https://youtu.be/Iz-ZIsvfyzY
+
+<b>Exercício 08</b> (
+
 Neste exercício utilizamos o NVDA como leitor de tela: https://www.nvaccess.org/
 
 
